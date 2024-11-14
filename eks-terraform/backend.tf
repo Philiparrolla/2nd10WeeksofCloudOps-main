@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "phanu"
+    bucket = "phanu7378"
     key    = "philip/terraform.tfstate"
     region = "us-east-1"
   }
